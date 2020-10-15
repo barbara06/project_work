@@ -1,20 +1,20 @@
 {
     "film": [
         { 
-        "titolo": "Your Name (Kimi No Na Wa)",
-        "voto": "4.7 su 5",
-        "genere": "Anime, fantastico, sentimentale, drammatico",
-        "anno":  "2016",
-        "regia": "Makoto Shinkai",
-        "cast": "Ryūnosuke Kamiki, Mone Kamishiraishi, Masami Nagasawa, Etsuko Ichihara, Ryo Narita, Aoi Yūki, Nobunaga Shimazaki, Kaito Ishikawa, Kanon Tani, Masaki Terasoma, Sayaka Ōhara, Kana Hanazawa",
-        "trama": "Il film ci accompagna nella vita di Mitsuha e Taki. Mitsuha è una studentessa che vive in una piccola città rurale e desidera trasferirsi a Tokyo, nella grande metropoli dove ogni sogno si può realizzare. Taki è uno studente di liceo che vive proprio a Tokyo, ha un lavoro part-time in un ristorante italiano, ma vorrebbe lavorare nel campo dell'arte o dell’architettura.<br>Una notte, Mitsuha sogna di essere un giovane uomo, si ritrova in una stanza che non conosce, ha nuovi amici e lo skyline di Tokyo si apre dinnanzi al suo sguardo. Nello stesso momento Taki sogna di essere una ragazzina che vive in una piccola città di montagna che non ha mai visitato.<br>Ma quale sarà il segreto che si cela dietro questi strani sogni incrociati?",
-        "locandina": "https://stambergadinchiostro.altervista.org/wp-content/uploads/2017/10/Your-name-poster.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ZOdDIz2lFLQ"
+            "titolo": "Your Name (Kimi No Na Wa)",
+            "rating": "4.7 su 5",
+            "genere": "Anime, fantastico, sentimentale, drammatico",
+            "anno":  "2016",
+            "regia": "Makoto Shinkai",
+            "cast": "Ryūnosuke Kamiki, Mone Kamishiraishi, Masami Nagasawa, Etsuko Ichihara, Ryo Narita, Aoi Yūki, Nobunaga Shimazaki, Kaito Ishikawa, Kanon Tani, Masaki Terasoma, Sayaka Ōhara, Kana Hanazawa",
+            "trama": "Il film ci accompagna nella vita di Mitsuha e Taki. Mitsuha è una studentessa che vive in una piccola città rurale e desidera trasferirsi a Tokyo, nella grande metropoli dove ogni sogno si può realizzare. Taki è uno studente di liceo che vive proprio a Tokyo, ha un lavoro part-time in un ristorante italiano, ma vorrebbe lavorare nel campo dell'arte o dell’architettura.<br>Una notte, Mitsuha sogna di essere un giovane uomo, si ritrova in una stanza che non conosce, ha nuovi amici e lo skyline di Tokyo si apre dinnanzi al suo sguardo. Nello stesso momento Taki sogna di essere una ragazzina che vive in una piccola città di montagna che non ha mai visitato.<br>Ma quale sarà il segreto che si cela dietro questi strani sogni incrociati?",
+            "locandina": "https://stambergadinchiostro.altervista.org/wp-content/uploads/2017/10/Your-name-poster.jpg",
+            "trailer": "https://www.youtube.com/watch?v=ZOdDIz2lFLQ"
         },
 
         { 
             "titolo": "Il Giardino Delle Parole (Kotonoha No Niwa)",
-            "voto": "3.5 su 5",
+            "rating": "3.5 su 5",
             "genere": "Anime, sentimentale",
             "anno":  "2013",
             "regia": "Makoto Shinkai",
@@ -26,7 +26,7 @@
 
         { 
             "titolo": "Lost In Translation",
-            "voto": "4 su 5",
+            "rating": "4 su 5",
             "genere": "Commedia, Drammatico",
             "anno":  "2003",
             "regia": "Sofia Coppola",
@@ -38,7 +38,7 @@
 
         { 
             "titolo": "The Ramen Girl",
-            "voto": "3.7 su 5",
+            "rating": "3.7 su 5",
             "genere": "Commedia, Drammatico, Sentimentale",
             "anno":  "2008",
             "regia": "Robert Allan Ackerman",
@@ -50,7 +50,7 @@
 
         { 
             "titolo": "La Tigre E Il Dragone",
-            "voto": "3.8 su 5",
+            "rating": "3.8 su 5",
             "genere": "Azione",
             "anno":  "2008",
             "regia": "Ang Lee",
@@ -62,7 +62,7 @@
 
         { 
             "titolo": "Memorie Di Una Geisha",
-            "voto": "4 su 5",
+            "rating": "4 su 5",
             "genere": "Drammatico",
             "anno":  "2005",
             "regia": "Rob Marshall",
@@ -74,7 +74,7 @@
         
         { 
             "titolo": "Ritorno Al Futuro",
-            "voto": "4.4 su 5",
+            "rating": "4.4 su 5",
             "genere": "Avventura, Commedia, Fantascienza",
             "anno":  "1985",
             "regia": "Robert Zemeckis",
@@ -86,7 +86,7 @@
     
         { 
             "titolo": "Ritorno Al Futuro II",
-            "voto": "3.7 su 5",
+            "rating": "3.7 su 5",
             "genere": "Avventura, Fantascienza, Commedia",
             "anno":  "1989",
             "regia": "Robert Zemeckis",
@@ -98,7 +98,7 @@
     
         { 
             "titolo": "Ritorno Al Futuro III",
-            "voto": "3.7 su 5",
+            "rating": "3.7 su 5",
             "genere": "Avventura, Fantascienza, Western, Commedia",
             "anno":  "1990",
             "regia": "Robert Zemeckis",
@@ -110,7 +110,7 @@
     
         { 
             "titolo": "Il Misterio Di Sleepy Hollow",
-            "voto": "4.2 su 5",
+            "rating": "4.2 su 5",
             "genere": "Horror",
             "anno":  "1999",
             "regia": "Tim Burton",

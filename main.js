@@ -17,11 +17,11 @@ for (i in lista) {
 
     titolo.innerHTML = lista[i].titolo;
 
-    let voto = document.createElement('p');
+    let rating = document.createElement('p');
 
-    voto.className = "classe css";
+    rating.className = "classe css";
 
-    voto.innerHTML = lista[i].voto;
+    rating.innerHTML = lista[i].rating;
 
     let genere = document.createElement('p');
 
@@ -68,7 +68,7 @@ for (i in lista) {
 
 
     film.append(titolo);
-    film.append(voto);
+    film.append(rating);
     film.append(genere);
     film.append(anno);
     film.append(regia);
@@ -82,7 +82,7 @@ for (i in lista) {
 
 
 
-   // lista.film[i].titolo.voto.genere.anno.regia.cast.trama.locandina.trailer;
+   // lista.film[i].titolo.rating.genere.anno.regia.cast.trama.locandina.trailer;
 }
 
 document.getElementById("lista").append(divfilm);
