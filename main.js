@@ -3,7 +3,7 @@ let path = "https://raw.githubusercontent.com/barbara06/project_work/master/film
 /*$.getJSON("https://raw.githubusercontent.com/barbara06/project_work/master/film.json", function(json) {
     lista = json; */ 
     
-
+// fetch(path)
 
 let divfilm = document.createElement('div');
 
