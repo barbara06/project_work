@@ -7,7 +7,8 @@ body {
   background-image: url('img/thumb-1920-554381.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed; /*scroll*/
-  background-position: center center;
+  /*background-position: center center; serve o non serve??? */
+  background-size: 100%;
   margin:0px;
   font-family: 'Montserrat', sans-serif;
   color: white;
