@@ -4,17 +4,22 @@
 
 .sfondo {
   background-color: black;
-  background-image: url('img/thumb-1920-554381.jpg');
+  background-image: url('../img/thumb-1920-554381.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed; /*scroll*/
   /*background-position: center center; serve o non serve??? */
-  /*background-size: 100%;
+  background-size: 100%;
   margin:0px;
   font-family: 'Montserrat', sans-serif;
-  color: white;
 }
 
-header {
+.stella {
+    color: yellow;
+    text-shadow: 0 0 5px #000;
+}
+
+
+/*header {
     text-align: center;
     text-decoration:none;
     color: yellow; 
@@ -25,18 +30,18 @@ header {
 .blocco_ritorno1 {
     background-color: blue;
     /*filter: blur(5px);*/
-/*}*/
+/*}
 
-/*.anteprima {
+.anteprima {
     width: 30%;
     display: inline-block;
     text-align: left;
     vertical-align: middle;
     position: relative;
     /*left: 5%;*/
-}
+/*}
 
-/*.rf1 {
+.rf1 {
     width: 65%;
     display: inline-block;
     vertical-align: middle;

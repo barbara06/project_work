@@ -2,7 +2,7 @@
     "film": [
         { 
             "titolo": "Your Name (Kimi No Na Wa)",
-            "rating": "4.7/5",
+            "rating": "4.7 su 5",
             "genere": "Anime, Fantastico, Sentimentale, Drammatico",
             "anno":  "2016",
             "regia": "Makoto Shinkai",
@@ -14,7 +14,7 @@
 
         { 
             "titolo": "Il Giardino Delle Parole (Kotonoha No Niwa)",
-            "rating": "3.5/5",
+            "rating": "3.5 su 5",
             "genere": "Anime, Sentimentale",
             "anno":  "2013",
             "regia": "Makoto Shinkai",
@@ -26,7 +26,7 @@
 
         { 
             "titolo": "Le Ricette Della Signora Toku (An)",
-            "rating": "3.9/5",
+            "rating": "3.9 su 5",
             "genere": "Drammatico",
             "anno":  "2015",
             "regia": "Naomi Kawase",
@@ -38,19 +38,19 @@
 
         { 
             "titolo": "Lost In Translation",
-            "rating": "4/5",
+            "rating": "4 su 5",
             "genere": "Commedia, Drammatico",
             "anno":  "2003",
             "regia": "Sofia Coppola",
             "cast": "Scarlett Johansson, Bill Murray, Akiko Takeshita, Giovanni Ribisi, Anna Faris",
             "trama": "Aeroporto di Tokyo. La star del cinema ormai in declino Bob Harris (Bill Murray) si dirige in albergo a bordo di un taxi. Con occhi sgranati e curiosi guarda dal finestrino dell'auto la metropoli giapponese. L'attore è a Tokyo per girare uno spot pubblicitario di una marca di whisky. Arrivato in un hotel di lusso, una delegazione appartenente all'agenzia pubblicitaria lo accoglie portandogli dei piccoli regali e dandosi appuntamento all'indomani.<br>Una volta sistemate le sue cose in camera e fatta una doccia, Bob rimane seduto un momento, con aria spaesata si guarda intorno, domandandosi probabilmente che cosa ci stia a fare lì. Sceso al bar, si ferma al banco per concedersi un drink. Lì due giovani in viaggio d'affari lo notano e lo riconoscono, ma Bob saluta infastidito e si allontana.<br>In un'altra camera dell'albergo alloggia la giovane Charlotte (Scarlett Johansson), che accompagna in viaggio il marito John (Giovanni Ribisi), fotografo in ascesa. Di notte, insonne, seduta sul letto, fissa il panorama fuori dalla sua finestra e lo sguardo si perde dietro le mille luci della città. Il mattino seguente, John saluta frettolosamente Charlotte: un nuovo servizio fotografico lo aspetta.<br>Rimasta sola e con la consapevolezza di essere poco compresa, la giovane s'interroga sul rapporto col marito, poiché la sua fame di successo l’ha messa in secondo piano. Bob intanto arriva sul set allestito per lo spot del whisky, ma non si sente molto a suo agio: tutti parlano giapponese e le traduzioni dell'interprete lo lasciano un po’ perplesso.<br>Una sera, Bob e Charlotte si trovano per caso al bar dell’albergo e iniziano a parlare. Entrambi insonni, finiscono per passare molto tempo insieme. L’incontro di due solitudini interiori farà nascere un rapporto speciale...",
-            "locandina": "https://m.media-amazon.com/images/M/MV5BMTI2NDI5ODk4N15BMl5BanBnXkFtZTYwMTI3NTE3._V1_.jpg",
+            "locandina": "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20190705153422/LostInTranslation_onesheet_USA-3.jpg",
             "trailer": "https://www.youtube.com/watch?v=W6iVPCRflQM"
         },
 
         { 
             "titolo": "The Ramen Girl",
-            "rating": "3.7/5",
+            "rating": "3.7 su 5",
             "genere": "Commedia, Drammatico, Sentimentale",
             "anno":  "2008",
             "regia": "Robert Allan Ackerman",
@@ -62,7 +62,7 @@
 
         { 
             "titolo": "La Tigre E Il Dragone",
-            "rating": "3.8/5",
+            "rating": "3.8 su 5",
             "genere": "Azione",
             "anno":  "2008",
             "regia": "Ang Lee",
@@ -74,7 +74,7 @@
 
         { 
             "titolo": "Memorie Di Una Geisha",
-            "rating": "4/5",
+            "rating": "4 su 5",
             "genere": "Drammatico",
             "anno":  "2005",
             "regia": "Rob Marshall",
@@ -86,7 +86,7 @@
         
         { 
             "titolo": "Ritorno Al Futuro",
-            "rating": "4.4/5",
+            "rating": "4.4 su 5",
             "genere": "Avventura, Commedia, Fantascienza",
             "anno":  "1985",
             "regia": "Robert Zemeckis",
@@ -98,7 +98,7 @@
     
         { 
             "titolo": "Ritorno Al Futuro II",
-            "rating": "3.7/5",
+            "rating": "3.7 su 5",
             "genere": "Avventura, Fantascienza, Commedia",
             "anno":  "1989",
             "regia": "Robert Zemeckis",
@@ -110,7 +110,7 @@
     
         { 
             "titolo": "Ritorno Al Futuro III",
-            "rating": "3.7/5",
+            "rating": "3.7 su 5",
             "genere": "Avventura, Fantascienza, Western, Commedia",
             "anno":  "1990",
             "regia": "Robert Zemeckis",
@@ -122,7 +122,7 @@
     
         { 
             "titolo": "Il Misterio Di Sleepy Hollow",
-            "rating": "4.2/5",
+            "rating": "4.2 su 5",
             "genere": "Horror",
             "anno":  "1999",
             "regia": "Tim Burton",
