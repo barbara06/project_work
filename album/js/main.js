@@ -17,7 +17,7 @@ function creaLista(lista) {
     for (let i = 0; i < lista.length; i++) {
         let film = '<div class="col-md-4">' +
                     '<div class="card mb-4 shadow-sm">' +
-                        '<img src="' + lista[i].locandina + '" class="card-img-top">' +
+                        '<img src="' + lista[i].locandina + '" class="card-img-top locandina">' +
                         '<div class="card-body">' +
                             '<h5 class="card-title">' + lista[i].titolo + '</h5>' + 
                             '<p class="card-text">' + lista[i].genere + '(' + lista[i].anno + ')</p>' +

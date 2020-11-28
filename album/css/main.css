@@ -18,6 +18,10 @@
     text-shadow: 0 0 5px #000;
 }
 
+.locandina {
+    height: 650px;
+    width: auto;
+}
 
 /*header {
     text-align: center;
