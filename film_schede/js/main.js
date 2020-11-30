@@ -17,13 +17,7 @@ fetch('https://raw.githubusercontent.com/barbara06/project_work/master/film.json
 
 function creaLista(lista) {
     for (let i = 0; i < lista.length; i++) {
-
-        let stato = "";
-        if (i==0) {
-            stato = "active";
-        }
-
-        let film = '<div class="carousel-item col-md-4 ' + stato + '">' +
+        let film = '<div class="col-md-4">' +
                     '<div class="card mb-4 shadow-sm">' +
                         '<img src="' + lista[i].locandina + '" class="card-img-top locandina">' +
                         '<div class="card-body">' +
@@ -56,26 +50,3 @@ function schedaFilm(id) {
     $('#trailerFilm').attr('src', elenco[id].trailer);
     $('#exampleModal').modal('show');
 }
-
-$('#carouselExample').on('slide.bs.carousel', function (e) {
-
-    var $e = $(e.relatedTarget);
-    
-    var idx = $e.index();   
-    var itemsPerSlide = 8;
-    var totalItems = $('.carousel-item').length;
-    
-    if (idx >= totalItems-(itemsPerSlide-1)) {
-        var it = itemsPerSlide - (totalItems - idx);
-        for (var i=0; i<it; i++) {
-            // append slides to end
-            if (e.direction=="left") {
-                $('.carousel-item').eq(i).appendTo('.carousel-inner');
-            }
-            else {
-                $('.carousel-item').eq(0).appendTo('.carousel-inner');
-            }
-        }
-    }
-});
-
