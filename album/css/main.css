@@ -1,16 +1,37 @@
-/** {
-    box-sizing: border-box;
-}*/
-
 .sfondo {
-  background-color: black;
-  background-image: url('../img/thumb-1920-554381.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed; /*scroll*/
-  /*background-position: center center; serve o non serve??? */
-  background-size: 100%;
-  margin:0px;
-  font-family: 'Montserrat', sans-serif;
+    background-color: black;
+    background-image: url('../img/thumb-1920-554381.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; /*scroll*/
+    /*background-position: center center; da valutare */
+    background-size: 100%;
+    margin:0px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.sfondoCard {
+    background-color: cornsilk;
+}
+
+.titoloCard {
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.testoCard {
+    font-size: 14px;
+}
+
+.container h1 {
+    font-family: 'Kaushan Script', cursive;
+    color: rgb(223, 193, 27);
+    font-size: 100px;
+    text-shadow: -3px 0 darkblue, 0 3px darkblue, 3px 0 darkblue, 0 -3px darkblue;
+}
+
+.sottotitolo {
+    padding-top: 1%;
+    color:skyblue;
 }
 
 .stella {
@@ -21,6 +42,16 @@
 .locandina {
     height: 400px;
     width: auto;
+}
+
+.scheda {
+    background-color:rgb(78, 146, 201) !important;
+    color: white !important;
+    border-color: skyblue !important;
+}
+
+.scheda:hover {
+    background-color: rgb(37, 52, 117) !important;
 }
 
 @media (min-width: 768px) {
@@ -86,4 +117,64 @@
         visibility: visible;
     }
 
+}
+
+#titoloFilm {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.row {
+    color: black;
+}
+
+.stileNewsletter {
+    color:skyblue;
+}
+
+.buttonNewsletter {
+    background-color:rgb(78, 146, 201) !important;
+    color: white !important;
+    border-color: skyblue !important;
+}
+
+.buttonNewsletter:hover {
+    background-color: rgb(37, 52, 117) !important;
+}
+
+.social-link {
+    display:flex;
+    padding:30px 20px 30px 20px;
+}
+
+.fa {
+    font-size: x-large !important;
+}
+
+.social {
+    padding: 10px;
+    color:skyblue;
+}
+
+
+.fa-facebook {
+    padding: 10px;
+}
+
+.fa-twitter {
+    padding: 10px;
+}
+
+.fa-instagram {
+    padding: 10px;
+}
+
+.float-right {
+    flex-grow: 2;
+    text-align: right;
+    padding: 10px;
+}
+
+.copyright {
+    text-align: center;
 }

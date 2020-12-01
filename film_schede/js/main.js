@@ -20,11 +20,11 @@ function creaLista(lista) {
         let film = '<div class="col-md-4">' +
                     '<div class="card mb-4 shadow-sm">' +
                         '<img src="' + lista[i].locandina + '" class="card-img-top locandina">' +
-                        '<div class="card-body">' +
-                            '<h5 class="card-title">' + lista[i].titolo + '</h5>' + 
-                            '<p class="card-text">' + lista[i].genere + ' (' + lista[i].anno + ')</p>' +
+                        '<div class="card-body sfondoCard">' +
+                            '<h5 class="card-title titoloCard">' + lista[i].titolo + '</h5>' + 
+                            '<p class="card-text testoCard">' + lista[i].genere + ' (' + lista[i].anno + ')</p>' +
                             '<p class="card-text"><i class="fa fa-star fa-lg stella"></i> ' + lista[i].rating +
-                            '<button type="button" class="btn btn-sm btn-outline-secondary float-right" onClick="schedaFilm(' + i + ')">Scheda</button>' +
+                            '<button type="button" class="btn btn-sm btn-outline-secondary float-right scheda" onClick="schedaFilm(' + i + ')">Scheda</button>' +
                             '</p>' +
                         '</div>' +
                     '</div>' +
